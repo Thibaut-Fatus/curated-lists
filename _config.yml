@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: Curated Twitter Lists
+description: Find the best curated and up to date Twitter lists of experts to follow on your favourite subjects.
+show_downloads: false
+google_analytics: UA-157275712-1
+github:
+  is_project_page: false
