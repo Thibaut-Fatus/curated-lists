@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## What?
 
-You can use the [editor on GitHub](https://github.com/Thibaut-Fatus/curated-lists/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You want to get access to curated lists of people to follow on Twitter, which are kept up to date, on any subject of your choice. These could be to keep you informed, or to learn about a new subject, to discover a new market, you name it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How?
 
-### Markdown
+We offer lists of 50 accounts curated by our team and our partners: these lists are updated every week to ensure you get the best of them. You'll be able to rate the lists you subscribed to, see each list ratings, and unsubscribe any time you want.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Why?
 
-```markdown
-Syntax highlighted code block
+You could maintain your own, or build them with your friends, but this is time consuming and consensus might be harder to reach than you think. And when diving into new subjects, the quantity of accounts available can be overwhelming.
 
-# Header 1
-## Header 2
-### Header 3
+## Legal
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thibaut-Fatus/curated-lists/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can read or [privacy policy](https://thibaut-fatus.github.io/curated-lists/privacy-policy)
